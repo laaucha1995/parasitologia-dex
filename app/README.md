@@ -1,4 +1,4 @@
-# Build-and-Dockerize-a-Full-stack-React-app-with-Node.js-MySQL-and-Nginx-for-reverse-proxy
+# Parasitologia Dex
 
 Run `npm i` inside the client directory
 
